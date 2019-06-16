@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "670223364128",
+    "firebase_url": "https://fir-realtimep1.firebaseio.com",
+    "project_id": "fir-realtimep1",
+    "storage_bucket": "fir-realtimep1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670223364128:android:a423268cb1b31181",
+        "android_client_info": {
+          "package_name": "com.deepmodi.firebaserealtimedatabaseprojectone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670223364128-l196pau6pn003pc8bq8rnj5pvdb78c4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepmodi.firebaserealtimedatabaseprojectone",
+            "certificate_hash": "13336103e544bd31e3864992c361e4a486d3148d"
+          }
+        },
+        {
+          "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXV3EiNm2CMcPatA088Ko9E4dHfbK2nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670223364128-rn1nncvqv3chvdtk590kipe6q6v12inf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
